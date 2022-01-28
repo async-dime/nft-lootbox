@@ -9,12 +9,11 @@ const quizQuestions: Question[] = [
   {
     questionText: "Who is the employer of Dementor in Azkaban?",
     image:
-      // "https://images.unsplash.com/photo-1642201855395-1c8b44e6e42b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
       "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/09/Azkaban.jpg",
     answers: [
       "British Ministry of Divine Health",
       "British Ministry of Magic",
-      "Trick question: nothing!",
+      "International Warlock Convention",
       "International Confederation of Wizards",
     ],
     correctAnswerIndex: 1,
@@ -28,7 +27,6 @@ const quizQuestions: Question[] = [
   {
     questionText: "What is the name of defensive charm that used to repel a Dementor?",
     image:
-      // "https://images.unsplash.com/photo-1591439346018-9d5df732ab7d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
       "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/05/Daniel-Radcliffe-as-Harry-Potter-Casting-a-Spell.jpg",      
     answers: ["Expecto Patronum", "Arresto Momentum", "Bombarda Maxima", "Lacarnum Inflamari"],
     correctAnswerIndex: 0,
