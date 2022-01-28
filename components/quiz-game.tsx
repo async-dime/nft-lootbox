@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Question } from "../lib/questions";
+import { Question } from "@/lib/questions";
 import QuizQuestion from "./quiz-question";
 
 export type QuestionWithoutAnswer = Omit<Question, "correctAnswerIndex">;

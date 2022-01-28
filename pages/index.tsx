@@ -1,10 +1,10 @@
-import QuizGame from "../components/quiz-game";
-import quizQuestions from "../lib/questions";
+import QuizGame from '@/components/quiz-game';
+import quizQuestions from '@/lib/questions';
 
 export function getStaticProps() {
   return {
     props: {
-      title: "My Quiz!",
+      title: 'My Quiz!',
     },
   };
 }
